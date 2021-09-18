@@ -1,0 +1,20 @@
+{
+  "name": "ez_canvas_controller",
+  "version": "1.0.0",
+  "description": "An easy to use control handler for mouse and touch input on a canvas.",
+  "main": "ez_canvas_controller.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twinklebear/ez_canvas_controller.git"
+  },
+  "keywords": [],
+  "author": "Will Usher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Twinklebear/ez_canvas_controller/issues"
+  },
+  "homepage": "https://github.com/Twinklebear/ez_canvas_controller#readme"
+}
